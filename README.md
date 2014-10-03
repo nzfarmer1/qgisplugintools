@@ -1,4 +1,5 @@
-qgisplugintools
-===============
+Simple php script to upload Plugin archives (.zip) files to plugins.qgis.org
 
-Upload plugins to plugins.qgis.org automatically
+Andrew McClure <andrew@southweb.co.nz>
+
+
